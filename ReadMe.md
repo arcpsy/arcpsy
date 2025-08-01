@@ -1,37 +1,29 @@
 <div align="center">
-  <h1>Hi, I'm Carlo Laynes! 🌱</h1>
+  <font size="6"><b>Hi, I'm Carlo Laynes!</b></font>
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h2>About Me</h2>
-        <p>
-        🎓 Student of Information Technology at Ateneo de Davao University.<br>
-        👨‍💻 Aspiring Full-stack Developer.<br>
-        📚 Always learning and expanding my tech skills.
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h2>🔗 Find Me Online</h2>
-        <p>
-          <a href="https://arc-psy.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-          </a>
-          <a href="https://linkedin.com/in/carlo-allan-laynes-71b500248" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-          </a>
-          <a href="https://facebook.com/caflaynes" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br>
+  <b>About Me</b>
+  <p>
+    🎓 Student of Information Technology at Ateneo de Davao University.<br>
+    👨‍💻 Aspiring Full-stack Developer.<br>
+    📚 Always learning and expanding my tech skills.
+  </p>
+  <br>
+  <div style="margin-bottom: -10px;"><b>🔗 Find Me Online</b></div>
+  <p>
+    <a href="https://arc-psy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://linkedin.com/in/carlo-allan-laynes-71b500248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://facebook.com/caflaynes" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <h2>🛠️ My Tech Stack</h2>
@@ -78,7 +70,8 @@
 ---
 
 <div align="center">
-  <h2>🙏 Support My Work</h2>
+  <br/>
+  <div style="margin-bottom: 10px;"><b>🙏 Support My Work</b></div>
   <p>
     <a href="https://buymeacoffee.com/carloallanlaynes" target="_blank">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Badge"/>
