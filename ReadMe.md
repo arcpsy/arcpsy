@@ -1,5 +1,5 @@
 <div align="center">
-  <font size="6"><b>Hi, I'm Carlo Laynes!</b></font>
+  <font size="20"><b>Hi, I'm Carlo Laynes!</b></font><br />
 </div>
 
 <div align="center">
