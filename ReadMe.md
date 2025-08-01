@@ -1,5 +1,6 @@
 <div align="center">
-  <font size="20"><b>Hi, I'm Carlo Laynes!</b></font><br />
+  <font size="32"><b>Hi, I'm Carlo Laynes!</b></font>
+    <br />
 </div>
 
 <div align="center">
