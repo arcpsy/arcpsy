@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Carlo Laynes!</h1>
+  <h1>Hi, I'm Carlo Laynes! 🌱</h1>
 </div>
-
----
 
 <table width="100%">
   <tr>
@@ -34,8 +32,6 @@
     </td>
   </tr>
 </table>
-
----
 
 <div align="center">
   <h2>🛠️ My Tech Stack</h2>
