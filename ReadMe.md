@@ -1,7 +1,7 @@
 <h1 align="center">Carlo Laynes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Building+useful+web+applications;Focused+on+clarity+and+reliability" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Building+useful+web+applications;Clean+and+maintainable+code" />
 </p>
 
 <br/>
