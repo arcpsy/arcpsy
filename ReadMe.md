@@ -1,14 +1,14 @@
 <h1 align="center">Carlo Laynes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Next.js+%7C+NestJS+%7C+PostgreSQL;Building+systems+that+support+real+business+needs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Building+useful+web+applications;Focused+on+clarity+and+reliability" />
 </p>
 
 <br/>
 
 ## About
 
-I’m a BSIT student at Ateneo de Davao University focused on building modern web applications that support real business needs. I value clean, maintainable code and careful attention to detail.
+I’m a BSIT student at Ateneo de Davao University building practical web applications for real-world use. I value writing clean, maintainable code and approaching development with careful attention to detail.
 
 <br/>
 
