@@ -6,12 +6,12 @@
 
 <br/>
 
-## Hi!
+### Hello!
 I’m a BSIT student at Ateneo de Davao University. I value writing clean, maintainable code and approaching development with careful attention to detail.
 
 <br/>
 
-## Tech Stack
+### Tech Stack
 
 #### Core
 
