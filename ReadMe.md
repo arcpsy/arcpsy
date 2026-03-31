@@ -6,15 +6,14 @@
 
 <br/>
 
-## About
-
+## Hi!
 I’m a BSIT student at Ateneo de Davao University. I value writing clean, maintainable code and approaching development with careful attention to detail.
 
 <br/>
 
 ## Tech Stack
 
-### Core
+#### Core
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -26,7 +25,7 @@ I’m a BSIT student at Ateneo de Davao University. I value writing clean, maint
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Additional Experience
+#### Additional Experience
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -39,7 +38,7 @@ I’m a BSIT student at Ateneo de Davao University. I value writing clean, maint
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-### Design Tools
+#### Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -48,7 +47,7 @@ I’m a BSIT student at Ateneo de Davao University. I value writing clean, maint
 
 <br/>
 
-## Connect
+### Connect
 
 <p>
   <a href="https://arc-psy.vercel.app">
