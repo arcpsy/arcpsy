@@ -1,13 +1,9 @@
 <h1 align="left">Carlo Laynes</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=7000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Clean+and+maintainable+code" />
-</p>
-
 <br/>
 
 ### Hello!
-I’m a BSIT student at Ateneo de Davao University. I value writing clean, maintainable code and approaching development with careful attention to detail.
+I’m a BSIT student and a Full-stack Developer specializing in Next.js. I value writing clean, maintainable code and approaching development with careful attention to detail.
 
 <br/>
 
