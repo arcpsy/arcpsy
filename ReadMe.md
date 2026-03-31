@@ -1,6 +1,6 @@
-<h1 align="center">Carlo Laynes</h1>
+<h1 align="left">Carlo Laynes</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Clean+and+maintainable+code" />
 </p>
 
